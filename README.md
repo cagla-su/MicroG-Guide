@@ -1,5 +1,5 @@
 # MicroG
-MicroG is an **open source re-implementation of Android Google services and libraries** that respects your privacy and all you have to do is **installing .apk files from** [the website](https://microg.org/download.html). It is so easy! Also, **Huawei** devices can also use MicroG!
+MicroG is an **open source re-implementation of Android Google services and libraries** that respects your privacy and all you have to do is **installing .apk files from** [the website](https://microg.org/download.html). It is so easy! Also, **Huawei** devices can use MicroG!
 ## Who Is MicroG For?
 - MicroG is for everyone who wants to **de-google** their lives and/or for everyone who wants to **increase the privacy against Google** as much as possible.
 - If you're using a **stock ROM**, which means the operating system environment you have preinstalled after buying your phone, you **shouldn't** use MicroG because stock ROMs already have official Google services and libraries unless you're **not** using a **Huawei** phone.
