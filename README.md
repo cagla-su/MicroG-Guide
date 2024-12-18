@@ -16,5 +16,5 @@ MicroG simply lets you use your Google account and services like safety net, pus
     - For the network-based geolocation module, you should install `Apple UnifiedNlp Backend` and `Local NLP Backend` from **F-Droid**. After installing, go back to **microG Settings app** and go to `Location modules`, next, enable `Nominatim`, `Local NLP Backend` and `Apple Wi-Fi`.
       - Apple UnifiedNlp Backend is **proprietary** but as you might know, maps are not joke. So, we have to search for the best option possible. Apple's option is the only viable one in this case. But it's okay because Apple will only have your map data, not your personal data.
  - The last step after configuring MicroG is installing a **store app**. My suggestion is [Aurora Store](https://auroraoss.com/), it's an **open source Play Store alternative** and it **doesn't send any telemetry to Google**.
-# Conclusion
+## Conclusion
 This guide was about how to install and configure MicroG. I hope it has been useful for you. Have a nice day! 🐧
