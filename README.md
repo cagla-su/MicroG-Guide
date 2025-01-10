@@ -15,12 +15,10 @@ MicroG simply lets you use your Google account and services like safety net, pus
 - Some apps can't log in using Google account.
 ## Post Installation Steps
 - After installing MicroG from the website, you should change **microG Settings app's** battery optimization to `Unrestricted`.
-  - Next, simply log in your Google account inside the app and open your system's **Settings** app.
-    - After opening settings, go to `Passwords, passkeys & autofill` and click on your google account. Next, go to `Account preferences` and enable the two options you see.
-  - Now go back to **microG Settings app** and **enable** `Google device registration, Cloud Messaging and Google SafetyNet.`
-    - For Location modules, you need to install `Nominatim` from **F-Droid**. This is mandatory to be able to use maps.
-    - For the network-based geolocation module, you should install `Apple UnifiedNlp Backend` and `Local NLP Backend` from **F-Droid**. After installing, go back to **microG Settings app** and go to `Location modules`, next, enable `Nominatim`, `Local NLP Backend` and `Apple Wi-Fi`.
-      - Apple UnifiedNlp Backend is **proprietary** but as you might know, maps are not joke. So, we have to search for the best option possible. Apple's option is the only viable one in this case. But it's okay because Apple will only have your map data, not your personal data.
+  - Open **microG Settings app** and go to `Google Accounts`
+    - Add your Google account and make sure `Trust Google for app permissions`, `Allow apps to find accounts`, and `Authenticate with device registration` options are enabled.
+  - Now go back and **enable** `Google device registration, Cloud Messaging and Google SafetyNet.`
+  - Next, go to `Location` and enable all the options you see, when you're asked which online location service you want to use, you can try **Positon** as the suggested one. However, **BeaconDB** worked better for me, it's totally up to you.
  - The last step after configuring MicroG is installing a **store app**. My suggestion is [Aurora Store](https://auroraoss.com/), it's an **open source Play Store alternative** and it **doesn't send any telemetry to Google**.
 ## Conclusion
 This guide was about how to install and configure MicroG. I hope it has been useful for you. Have a nice day! 🐧
