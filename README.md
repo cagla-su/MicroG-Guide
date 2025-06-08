@@ -2,8 +2,8 @@
 MicroG is an **open source re-implementation of Android Google services and libraries** that respects your privacy and all you have to do is **installing .apk files from** [the website](https://microg.org/download.html). It is so easy! Also, **Huawei** devices can use MicroG!
 ## Who Is MicroG For?
 - MicroG is for everyone who wants to **de-google** their lives and/or for everyone who wants to **increase the privacy against Google** as much as possible.
-- If you are using a **stock ROM**, which means the operating system environment you have preinstalled after buying your phone, you **cannot** use MicroG because stock ROMs already have official Google services and libraries unless you are **not** using a **Huawei** phone.
-- In other words, to be able to use MicroG, you have to either use a **Huawei** phone or you have to install a **custom ROM** on your phone.
+- If you are using a **stock ROM**, which means the operating system environment you have preinstalled after buying your phone, you **cannot** use MicroG because stock ROMs already have official Google services and libraries.
+- In other words, to be able to use MicroG, you have to install a **custom ROM** on your phone.
   - However, if you want to use MicroG on **a custom ROM**, you should take a look at [this article](https://github.com/microg/GmsCore/wiki/Signature-Spoofing), otherwise, MicroG **will not work** on your custom ROM!!!
 ### What are the benefits of using MicroG?
 MicroG simply lets you use your Google account and services like safety net, push notifications, location etc. with the most privacy possible. It does not provide 100% privacy but it increases the privacy on a drastic level. Also, MicroG consumes way less resources which helps with **longer battery life**. If you would like to find out about MicroG more, you can check [their website](https://microg.org/).
