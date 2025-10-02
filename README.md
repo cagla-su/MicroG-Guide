@@ -1,3 +1,10 @@
+# Table of Contents
+- [Questions](https://github.com/cagla-su/MicroG-Guide?tab=readme-ov-file#questions)
+  - [Who is MicroG for?](https://github.com/cagla-su/MicroG-Guide?tab=readme-ov-file#who-is-microg-for-) <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/2acef641-cfdf-4dcd-a5d8-be0eba79d567" />
+  - [What are the benefits of using MicroG?](https://github.com/cagla-su/MicroG-Guide?tab=readme-ov-file#what-are-the-benefits-of-using-microg-) <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/2acef641-cfdf-4dcd-a5d8-be0eba79d567" />
+  - [What are the disadvantages of using MicroG?](https://github.com/cagla-su/MicroG-Guide?tab=readme-ov-file#what-are-the-disadvantages-of-using-microg-) <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/2acef641-cfdf-4dcd-a5d8-be0eba79d567" />
+- [Post-Installation Steps](https://github.com/cagla-su/MicroG-Guide?tab=readme-ov-file#post-installation-steps)
+- [Conclusion](https://github.com/cagla-su/MicroG-Guide?tab=readme-ov-file#conclusion)
 # MicroG <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/2acef641-cfdf-4dcd-a5d8-be0eba79d567" />
 <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/2acef641-cfdf-4dcd-a5d8-be0eba79d567" /> MicroG is an **open source re-implementation of <img width="16" height="25" alt="image-removebg-preview(1)" src="https://github.com/user-attachments/assets/cec27060-1d67-48e1-8f29-a3a5b639fde8" /> Android <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/29e970cd-e8b7-4125-b0f1-a2144b40d7f9" /> Google services and libraries** that respects your privacy. All you have to do get <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/2acef641-cfdf-4dcd-a5d8-be0eba79d567" /> MicroG is **installing .apk files from** [the website](https://microg.org/download.html). If you are ready, let's begin!
 ## Questions
@@ -22,4 +29,4 @@
 - Finally, go to `Location` and enable all the options you see.
 - After configuring <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/2acef641-cfdf-4dcd-a5d8-be0eba79d567" /> MicroG, you should install a <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/abd68b9b-79ab-4062-a28c-54edff49e54e" /> **Play Store alternative**. My suggestion is [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/), it is an **open source <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/abd68b9b-79ab-4062-a28c-54edff49e54e" /> Play Store alternative** and it **does not send any telemetry to <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/29e970cd-e8b7-4125-b0f1-a2144b40d7f9" /> Google**.
 # Conclusion
-This guide was about how to install and configure MicroG. I hope the guide has been useful. Thank you for reading, have a nice day! 🐧
+This guide was about how to install and configure MicroG. I hope the guide has been useful. Thank you for reading!
